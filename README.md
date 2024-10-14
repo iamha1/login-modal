@@ -8,3 +8,6 @@ Mobile view
 
 Fullscreen view
 
+<img width="1009" alt="Screenshot 2024-10-11 at 20 12 01" src="https://github.com/user-attachments/assets/1e161d56-8c59-4aa6-8d16-ec5f5fb7da98">
+
+
